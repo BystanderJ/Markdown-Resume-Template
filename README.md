@@ -5,15 +5,13 @@
 ## 个人信息 
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：22  
-* 手 机：15623252698 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：13253662129@163.com    
+* 学校：武汉大学 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  邮 箱：13253662129@163.com    
 * 专 业：测绘工程 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 双学位：计算机科学与技术
 
-## 工作及教育经历
+       
+## 专业知识与技能
 
-* 武汉大学&emsp;&emsp;&emsp;&emsp;&emsp;2018.9~至今&emsp;&emsp;&emsp;&emsp;&emsp; 测绘工程-本科
-* 现已保研到&emsp;&emsp;&emsp;&emsp;测绘遥感信息工程国家重点实验室       
-## 专业技能
-
+* 熟悉大地测量学、GIS原理与应用、遥感原理与应用等专业知识
 * 熟练使用 C++，了解git、latex等工具
 * 掌握基础数据结构和算法的基本原理
 * 了解视觉SLAM基本原理和过程
